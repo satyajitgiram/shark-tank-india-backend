@@ -1,0 +1,81 @@
+{
+    "id": 1, //
+    "episode_number": 1, //
+    "pitch_number": 1, //
+    "brand_name": "BluePine Industries", //
+    "Product ": "Frozen Momos", // add name as product/idea
+    "pitcher_ask_amount": 50,
+    "ask_equity": 5, // add name as pitcher_ask_equity
+    "ask_valuation": 1000, // name as  pitchers_ask_valuation
+    "deal_amount": 75,
+    "amount_per_shark": 25,
+    "deal_equity": 16,
+    "total_sharks_invested": 3,
+    "equity_per_shark": 5.333333333, // add
+    "ashneer_present": 1, / Add to second
+    "anupam_present": 1, / Add to second
+    "aman_present": 1,/ Add to second
+    "namita_present": 1,/ Add to second
+    "vineeta_present": 1,/ Add to second
+    "peyush_present": 0,/ Add to second
+    "ghazal_present": 0,/ Add to second
+    "ashneer_deal": 1,
+    "anupam_deal": 0,
+    "aman_deal": 1,
+    "namita_deal": 0,
+    "vineeta_deal": 1,
+    "peyush_deal": 0,
+    "ghazal_deal": 0,
+    "Sector": "Food and Beverages",
+    "Twitter (Company)": "http://twitter.com/intent/tweet?text=Contact%20Us&url=https%3A%2F%2Fbluepinefoods.com%2Fcontact-us%2F",
+    "LinkedIn (Company)": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fbluepinefoods.com%2Fcontact-us%2F&title=Contact%20Us",
+    "Instagram (Company)": "https://www.instagram.com/bluepine_foods/",
+    "Facebook (Company)": null,
+    "Youtube (Company)": null,
+    "Website (Company)": "https://bluepinefoods.com/",
+    "Deal/No Deal": "Deal",
+    "Entrepreneurs/Founders": "Aditi Madan, Rohan Singh, Naveen Pawar, , ,  ", / Remove extra dots
+    "Final Deal Debt in INR": 0,
+    "Final Deal Debt Interest in %": 0,
+    "deal_valuation": 468.75
+}
+
+
+{
+    "id": 1,
+    "episode_number": 1,
+    "pitch_number": 1,
+    "pitcher_ask_amount": 50,
+    "pitcher_ask_equity": 5,
+    "pitcher_ask_valuation": 1000,
+    "deal_amount": 75,
+    "total_sharks_invested": 3,
+    "equity_per_shark": 5.333333333,
+    "sharks_present": {
+        "ashneer": 1,
+        "anupam": 1,
+        "aman": 1,
+        "namita": 1,
+        "vineeta": 1,
+        "peyush": 0,
+        "ghazal": 0
+    },
+    "sector": "Food and Beverages",
+    "deal_or_not": 1,
+    "deal_valuation": 468.75,
+    "sharks_deal": {
+        "ashneer": 1,
+        "aman": 1,
+        "vineeta": 1
+    },
+    "product/idea": "Frozen Momos",
+    "company_twitter": "http://twitter.com/intent/tweet?text=Contact%20Us&url=https%3A%2F%2Fbluepinefoods.com%2Fcontact-us%2F",
+    "company_linkedin": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fbluepinefoods.com%2Fcontact-us%2F&title=Contact%20Us",
+    "company_instagram": "https://www.instagram.com/bluepine_foods/",
+    "company_facebook": None,
+    "company_youtube": None,
+    "company_website": "https://bluepinefoods.com/",
+    "final_deal_debt": 0,
+    "final_deal_dept_interest": 0,
+    "entrepreneurs/founders": "Aditi Madan, Rohan Singh, Naveen Pawar"
+}
