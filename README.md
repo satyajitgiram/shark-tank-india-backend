@@ -71,3 +71,14 @@ Contributions are welcome! If you'd like to contribute to the Shark Tank India p
 1. Fork the repository.
 
 2. Create a new branch:
+
+3. Make your changes and commit them:
+
+4. Push the changes to your forked repository:
+
+5. Create a pull request on the main repository.
+
+## Contact
+
+For any inquiries or suggestions, please feel free to contact : [Satyajit Giram](mailto:satyajigiram.dev@gmail.com).
+
