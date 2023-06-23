@@ -10,6 +10,8 @@ from .views import (
     SharkRetrieveUpdateDestroyView,
     ContactListCreateView,
     ContactRetrieveUpdateDestroyView,
+    PitchRequestListCreateView,
+    PitchRequestRetrieveUpdateDestroyView
 )
 
 urlpatterns = [
@@ -19,6 +21,8 @@ urlpatterns = [
     path('pitches/<int:pk>/', PitchRetrieveUpdateDestroyView.as_view(), name='pitches-detail'),
     path('sharks/', SharkListCreateView.as_view(), name='sharks-list'),
     path('sharks/<int:pk>/', SharkRetrieveUpdateDestroyView.as_view(), name='sharks-detail'),
+    path('pitch-request/', PitchRequestListCreateView.as_view(), name='request-pitch-detail'),
+    path('pitch-request/<int:pk>/', PitchRequestRetrieveUpdateDestroyView.as_view(), name='request-pitch-detail'),
     path('contact-us/', ContactListCreateView.as_view(), name='contact-list'),
     path('contact-us/<int:pk>/', ContactRetrieveUpdateDestroyView.as_view(), name='contact-detail'),
 ]
